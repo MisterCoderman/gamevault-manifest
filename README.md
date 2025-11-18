@@ -36,6 +36,9 @@ F:\Games
 C:\Games\GameVault
 
 The main requirement: games must be stored inside a Games or GameVault folder located on any local partition.
+Permanent link to the manifest:
+https://raw.githubusercontent.com/MisterCoderman/gamevault-manifest/refs/heads/main/manifest.yaml
+
 <hr>
 🟦 GameVault — Открытый Манифест
 
@@ -75,3 +78,6 @@ F:\Games
 C:\Games\GameVault
 
 Главное требование — игры должны находиться в папке Games или GameVault, расположенной на любом локальном разделе.
+
+Постоянная ссылка на манифест :
+https://raw.githubusercontent.com/MisterCoderman/gamevault-manifest/refs/heads/main/manifest.yaml
