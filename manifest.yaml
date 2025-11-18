@@ -1,0 +1,908 @@
+Woody Woodpecker Escape From Buzz Buzzard Park:
+  alias: "Woody Woodpecker: Escape from Buzz Buzzard Park"
+
+"Woody Woodpecker: Escape from Buzz Buzzard Park":
+  files:
+    "<base>/Woody.cfg":
+      tags:
+        - config
+      when:
+        - os: windows
+
+    "C:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "C:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "D:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "D:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "E:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "E:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "F:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "F:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "G:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "G:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "H:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "H:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "I:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "I:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "J:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "J:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "K:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "K:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "L:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "L:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "M:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "M:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "N:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "N:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "O:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "O:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "P:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "P:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "Q:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "Q:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "R:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "R:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "S:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "S:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "T:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "T:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "U:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "U:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "V:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "V:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "W:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "W:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "X:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "X:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "Y:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "Y:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "Z:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "Z:/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+
+"Spider-Man 2: The Game":
+  files:
+    "<base>/System/*.ini":
+      tags:
+        - config
+      when:
+        - os: windows
+
+    "C:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "C:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "D:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "D:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "E:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "E:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "F:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "F:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "G:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "G:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "H:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "H:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "I:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "I:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "J:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "J:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "K:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "K:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "L:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "L:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "M:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "M:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "N:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "N:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "O:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "O:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "P:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "P:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "Q:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "Q:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "R:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "R:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "S:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "S:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "T:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "T:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "U:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "U:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "V:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "V:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "W:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "W:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "X:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "X:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "Y:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "Y:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "Z:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "Z:/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      tags:
+        - save
+      when:
+        - os: windows
+
+  id:
+    lutris: spider-man-2-the-game
+
+
+The Lion King II Simba's Pride:
+  alias: "The Lion King II: Simba's Pride"
+
+"Disney's The Lion King II: Simba's Pride":
+  alias: "The Lion King II: Simba's Pride"
+
+"The Lion King II: Simba's Pride":
+  files:
+    "C:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "C:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "D:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "D:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "E:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "E:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "F:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "F:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "G:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "G:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "H:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "H:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "I:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "I:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "J:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "J:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "K:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "K:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "L:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "L:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "M:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "M:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "N:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "N:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "O:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "O:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "P:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "P:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "Q:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "Q:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "R:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "R:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "S:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "S:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "T:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "T:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "U:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "U:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "V:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "V:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "W:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "W:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "X:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "X:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "Y:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "Y:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "Z:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+    "Z:/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      tags:
+        - save
+      when:
+        - os: windows
+
+  registry:
+    HKEY_LOCAL_MACHINE/SOFTWARE/WOW6432Node/Disney Interactive/SPAG*:
+      tags:
+        - config
+"GTA Vice City Nextgen Edition":
+  files:
+    "<winDocuments>/Rockstar Games/GTA VC/savegames/SGTA4*":
+      tags:
+        - save
+      when:
+        - os: windows
+
