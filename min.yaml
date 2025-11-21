@@ -1,0 +1,76 @@
+"Spider-Man 2: The Game":
+  "files":
+    "C:/Games/GameVault/Installations/(*)Spider-Man 2 The Game/Files/Spider-Man 2/System/game*.ini":
+      "tags":
+      - save
+      "when":
+      - os: windows
+    "D:/Games/GameVault/Installations/(*)Spider-Man 2: The Game/Files/Spider-Man 2/System/game*.ini":
+      "tags":
+      - save
+      "when":
+      - os: windows
+  
+"The Lion King II Simba's Pride":
+  alias: "The Lion King II: Simba's Pride"
+"Disney's The Lion King II: Simba's Pride":
+  alias: "The Lion King II: Simba's Pride"
+"Woody Woodpecker Escape From Buzz Buzzard Park":
+  alias: 'Woody Woodpecker: Escape from Buzz Buzzard Park'
+"GTA Vice City Nextgen Edition":
+  "files":
+    "<winDocuments>/Rockstar Games/GTA VC/savegames/SGTA4*":
+      "tags":
+      - save
+      "when":
+      - os: windows
+"The Lion King II: Simba's Pride":
+  "registry":
+    "HKEY_LOCAL_MACHINE/SOFTWARE/WOW6432Node/Disney Interactive/SPAG*":
+      "tags":
+      - config
+  "files":
+    "C:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      "tags":
+      - save
+      "when":
+      - os: windows
+    "D:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/HiScores.sav":
+      "tags":
+      - save
+      "when":
+      - os: windows
+    "C:/Games/GameVault/Installations/(*)The Lion King II Simba's Pride/Files/LionKing2/SpagProgress.sav":
+      "tags":
+      - save
+      "when":
+      - os: windows
+    "D:/Games/GameVault/Installations/(*)The Lion King II: Simba's Pride/Files/LionKing2/SpagProgress.sav":
+      "tags":
+      - save
+      "when":
+      - os: windows
+  
+"Woody Woodpecker: Escape from Buzz Buzzard Park":
+  "files":
+    "C:/Games/GameVault/Installations/(*)Woody Woodpecker Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      "tags":
+      - save
+      "when":
+      - os: windows
+    "C:/Games/GameVault/Installations/(*)Woody Woodpecker: Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.cfg":
+      "tags":
+      - config
+      "when":
+      - os: windows
+    "D:/Games/GameVault/Installations/(*)Woody Woodpecker: Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.cfg":
+      "tags":
+      - config
+      "when":
+      - os: windows
+    "D:/Games/GameVault/Installations/(*)Woody Woodpecker: Escape from Buzz Buzzard Park/Files/Вуди Вудпеккер/Woody.sav":
+      "tags":
+      - config
+      "when":
+      - os: windows
+   
